@@ -2,8 +2,18 @@
 ![PySpark](https://img.shields.io/badge/PySpark-Advanced-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge)
-![Window Functions](https://img.shields.io/badge/Window-Functions-brightgreen?style=for-the-badge)
 ![Spark SQL](https://img.shields.io/badge/Spark-SQL-blue?style=for-the-badge)
+![Window Functions](https://img.shields.io/badge/Window-Functions-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![UDF](https://img.shields.io/badge/User%20Defined-Functions-yellow?style=for-the-badge)
+![Data Skew](https://img.shields.io/badge/Data%20Skew-Handling-red?style=for-the-badge)
+![AQE](https://img.shields.io/badge/Adaptive%20Query-Execution-9cf?style=for-the-badge)
+![Broadcast Join](https://img.shields.io/badge/Broadcast-Join-teal?style=for-the-badge)
+![Time Travel](https://img.shields.io/badge/Delta-Time%20Travel-8A2BE2?style=for-the-badge)
+![Catalyst Optimizer](https://img.shields.io/badge/Catalyst-Optimizer-orange?style=for-the-badge)
+![Partitioning](https://img.shields.io/badge/Partitioning-%26%20ZORDER-lightgrey?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-success?style=for-the-badge)
+![Big Data](https://img.shields.io/badge/Big%20Data-Engineering-critical?style=for-the-badge)
 ![Interview Ready](https://img.shields.io/badge/Interview-Ready-violet?style=for-the-badge)
 
 ---
@@ -71,7 +81,7 @@ Spark Internals & Performance Tuning (architecture, Catalyst, AQE, Delta Lake)
 
 ---
 
-# 📘 Notebook 1 — PySpark Fundamentals (`1_Tutorial.ipynb`)
+# 📘 Notebook 1 — PySpark Fundamentals (`PySpark-Mastery.ipynb`)
 
 ## 🧩 Topic Breakdown
 
