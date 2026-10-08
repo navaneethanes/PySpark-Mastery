@@ -256,7 +256,7 @@ df.printSchema()
 # MAGIC dbutils.secrets.help()
 # MAGIC dbutils.notebook.help()
 # MAGIC dbutils.jobs.help()
-# MAGIC dbutils.library.help()
+# MAGIC dbutils.library.help(
 # MAGIC ```
 # MAGIC
 # MAGIC ---
